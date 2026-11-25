@@ -18,6 +18,7 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 10. Test the calculator with different arithmetic operations.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,6 +73,7 @@ function calculate(){
 </script>
 </body>
 </html>
+```
 
 
 ## OUTPUT
